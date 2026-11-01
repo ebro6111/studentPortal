@@ -22,9 +22,10 @@ body {
 
 /* Login Card Styling */
 .login-card {
-    border: none;
+    border:2px solid darkgreen;
     border-radius: 12px;
     background-color: #ffffff;
+    box-shadow: #333;
 }
 
 /* Dashboard Section & Buttons */
